@@ -1,0 +1,189 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <title>AMontage Samles File</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <meta name="description" content="Official website of the AMontage application from Ant3Dstudio. Learn about the program details, download it to your computer, tablet or phone. Contact us and ask any question interesting you.">
+    <meta name="keywords" content="ant3dstudio gif, animation, draw, animation creator, animator, animation maker, amontage">
+    <link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/touch/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/touch/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="images/touch/apple-touch-icon-144x144.png">
+    <meta property="og:title" content="AMontage">
+    <meta property="og:description" content="Create animated doodles or cartoon animation">
+    <meta property="og:url" content="http://amontage.ant3dstudio.com">
+    <meta property="og:image" content="">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter41360109 = new Ya.Metrika2({ id:41360109, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/41360109" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--[if lt IE 9]>
+        <script src="js/html5.js"></script>
+        <script src="js/respond.js"></script>
+    <![endif]-->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-35590869-2', 'auto');
+	  ga('send', 'pageview');
+
+	</script>	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-33163485-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head>
+<body class="no-js">
+	<div class="menuUp">
+		<a href="/"><img src="upload/logoTx.png"  alt="amontage logo"></a>
+<ul>
+	<a href="desktop"><li>Desktop</li></a>
+	<a href="mobile"><li>Mobile</li></a>
+	<a href="capturestudio"><li>CaptureStudio</li></a>
+	<a href="help"><li>Help</li></a>
+	<a href="samples"><li>Samples</li></a>
+</ul>
+	</div>
+    <div class="main">
+        <header class="samplesHeader">
+            <div class="wrap" id="warpOpacity">
+                <div style="text-align:right;">
+                    <h1>Samples</h1>
+                </div>
+                <!-- /.header-wrapper -->
+            </div>
+            <!-- /.wrap -->
+        </header>
+        <div class="spanning">
+
+            <!-- /.comments clearfix -->
+            <div class="simple clearfix">
+                <div class="wrap">
+					<h1>Simple files</h1>
+					<p>You can download project files (*.amp) and open it into A-Montage app</p>
+
+					<table>
+						<tr>
+						<td><img src="downloads/aMontageSadBear.gif"></td>
+						<td>
+							<h1>Sad Bear</h1>
+							<p>Version: 4.1; Date: 24.02.2018</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageSadBear.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=amProject_santa.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td><img src="downloads/aMontageAnimate_santa.gif"></td>
+						<td>
+							<h1>Happy Santa</h1>
+							<p>Version: 3.5; Date: 09.12.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_santa.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=amProject_santa.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td><img src="downloads/aMontageAnimate_0.gif"></td>
+						<td>
+							<h1>Nox in the yard</h1>
+							<p>Version: 3.5; Date: 27.09.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_0.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=amProject_noxYard.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td><img src="downloads/aMontageAnimate_2.gif"></td>
+						<td>
+							<h1>TMNT Raphael</h1>
+							<p>Version: 3.5; Date: 27.09.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_2.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=aMontageAnimate_1.avi"><li>Video animation</li></a>
+								<a href="loadMe.php?fname=amProject_tmnt.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td><img src="downloads/aMontageAnimate_fireMan.gif"></td>
+						<td>
+							<h1>Make love. Not war</h1>
+							<p>Version: 3.5; Date: 27.09.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_fireMan.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=amProject_fire.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td>
+							<iframe width="360" height="215" src="https://www.youtube.com/embed/OdBvS6x02nM" frameborder="0" allowfullscreen></iframe>
+						</td>
+						<td>
+							<h1>Nox Love</h1>
+							<p>Version: 3.5; Date: 27.09.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_NoxLove.avi"><li>Video animation</li></a>
+								<a href="loadMe.php?fname=amProject_NoxLove.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					  <tr>
+						<td>
+							<iframe width="360" height="215" src="https://www.youtube.com/embed/UmPCDMfDlw4" frameborder="0" allowfullscreen></iframe>
+						</td>
+						<td>
+							<h1>Spider-Man Stop Motion</h1>
+							<p>Version: 3.5; Date: 27.09.2015</p>
+							<ul>
+								<a href="loadMe.php?fname=aMontageAnimate_spiderMan.gif"><li>Gif animation</li></a>
+								<a href="loadMe.php?fname=aMontageAnimate_spiderMan.avi"><li>Video animation</li></a>
+								<a href="loadMe.php?fname=amProject_spiderMan.amp"><li>Project file (*.amp)</li></a>
+							</ul>
+						</td>
+					  </tr>
+
+					</table>
+
+                </div>
+                <!-- /.wrap -->
+            </div>
+
+        </div>
+        <!-- /.spanning-columns -->
+    </div>
+    <!-- /.main -->
+    <footer>
+        <div class="wrap">
+            <p>&copy; 2018 <strong>Ant3Dstudio</strong>, All Rights Reserved</p>
+        </div>
+        <!-- /.wrap -->
+    </footer>
+    <script src="js/jquery.js"></script>
+    <script src="js/library.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/retina.js"></script>
+</body>
+</html>
